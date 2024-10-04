@@ -1,11 +1,10 @@
-# GitHub Codespaces ♥️ React
-
-Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
-
+# GitHusdCodespaces ♥️ APPLE INhttps://react.dev/reference/react-dom/components/formTELLIGENCE Readme  OurLad  adyy 
+me Da2
+Welcomehttps://react.dev/reference/react-dom/components/form to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
+AP 
 You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
-
+u
 This project was bootstrapped for you with [Vite](https://vitejs.dev/).
 
 ## Available Scripts
@@ -68,3 +67,4 @@ This section has moved here: [https://vitejs.dev/guide/build.html](https://vitej
 ### Troubleshooting
 
 This section has moved here: [https://vitejs.dev/guide/troubleshooting.html](https://vitejs.dev/guide/troubleshooting.html)
+E 
